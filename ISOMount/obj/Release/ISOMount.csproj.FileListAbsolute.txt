@@ -1,0 +1,9 @@
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\bin\Release\ISOMount.exe.config
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\bin\Release\ISOMount.exe
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\bin\Release\ISOMount.pdb
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.MainWindow.resources
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.Properties.Resources.resources
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.csproj.GenerateResource.Cache
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.exe
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.pdb
+C:\Users\William Haskell\Documents\Progs\Git\ISOMount\ISOMount\obj\Release\ISOMount.csprojResolveAssemblyReference.cache
