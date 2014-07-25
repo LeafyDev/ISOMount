@@ -1,0 +1,2 @@
+Better interface.
+Hide 2 and 3 if 1 isn't used.
